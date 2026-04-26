@@ -7,7 +7,7 @@ Aplikasi mobile berbasis Flutter untuk pemesanan tiket travel secara real-time. 
 ## 👤 Identitas Mahasiswa
 * **Nama:** Mochamad Ardhito Cakra Arya Pratama
 * **NRP:** 3124510116
-* **Program Studi:** D3 PJJ Teknik Informatika
+* **Program Studi:** D3 Teknik Informatika
 * **Institusi:** Politeknik Elektronika Negeri Surabaya (PENS)
 
 ---
