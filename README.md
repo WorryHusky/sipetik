@@ -47,7 +47,7 @@ Aplikasi mobile berbasis Flutter untuk pemesanan tiket travel secara real-time. 
 ## ⚙️ Cara Menjalankan Project
 1.  **Clone Repository:**
     ```bash
-    git clone [https://github.com/username/sipetik.git](https://github.com/username/sipetik.git)
+    git clone [[https://github.com/username/sipetik.git](https://github.com/username/sipetik.git](https://github.com/WorryHusky/sipetik.git))
     ```
 2.  **Install Dependencies:**
     ```bash
